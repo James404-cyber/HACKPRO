@@ -40,7 +40,7 @@ $ pip2 install mechanize
 $ pkg install git
 $ git clone https://github.com/James404-cyber/HACKPRO.git
 $ cd HACKPRO
-$ python2 hakepro.py
+$ python2 hackpro.py
 $ 
 
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
