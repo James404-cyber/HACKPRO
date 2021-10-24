@@ -45,7 +45,7 @@ $
 
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
  
-Note: PLEASE DON’T RECODED IT
+
 
 ```
 
