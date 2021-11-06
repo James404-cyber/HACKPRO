@@ -41,6 +41,7 @@ $ pip2 install BeautifulSoup
 $ pkg install git
 $ git clone https://github.com/James404-cyber/HACKPRO.git
 $ cd HACKPRO
+$ git pull
 $ python2 hackpro.py
 
 Api Key : Hello-Bro
