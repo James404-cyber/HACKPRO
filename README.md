@@ -42,7 +42,7 @@ $ pkg install git
 $ git clone https://github.com/James404-cyber/HACKPRO.git
 $ cd HACKPRO
 $ git pull
-$ python hackpro.py
+$ python Prohack.py
 
 Api Key : Hello-Bro
 
