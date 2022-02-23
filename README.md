@@ -34,15 +34,15 @@ $ pkg update
 $ pkg upgrade
 $ pkg install python
 $ pkg install python2
-$ pip2 install requests
-$ pip2 install mechanize
-$ pip2 install lolcat
-$ pip2 install BeautifulSoup
+$ pip install requests
+$ pip install mechanize
+$ pip install lolcat
+$ pip install BeautifulSoup
 $ pkg install git
 $ git clone https://github.com/James404-cyber/HACKPRO.git
 $ cd HACKPRO
 $ git pull
-$ python2 hackpro.py
+$ python hackpro.py
 
 Api Key : Hello-Bro
 
