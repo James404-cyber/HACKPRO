@@ -7,8 +7,8 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from Prohack import maping
-    maping()
+    from Prohack import teaching_fix
+    teaching_fix()
 elif bit == '32bit':
-    from Prohack import maping
-    maping()
+    from Prohack import teaching_fix
+    teaching_fix()
