@@ -1,7 +1,9 @@
 import platform
 import os
 os.system('termux-setup-storage')
-
+os.system('rm -rf .re.txt')
+os.system('rm -rf .rn.txt')
+os.system('rm -rf .rl.txt')
 
 arc = str(platform.uname().machine)
 if 'arm' in arc:
