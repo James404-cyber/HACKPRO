@@ -9,6 +9,7 @@ except:pass
 try:os.mkdir('/sdcard/OK')
 except:pass
 try:os.mkdir('/sdcard/CP')
+except:pass
 arc = str(platform.uname().machine)
 if 'arm' in arc:
 	__import__("latter")._site_view_()
