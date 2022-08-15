@@ -1,6 +1,9 @@
 import platform
 import os
-os.system("xdg-open https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA")
+try:os.system("xdg-open https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA")
+except:pass	
+try:os.system("clear")
+except:pass	
 os.system('termux-setup-storage')
 os.system('git pull')
 try:os.system('touch .prox.txt')
