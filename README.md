@@ -30,23 +30,20 @@ Facebook Random Uid & File Cloner Premium Tools
 cd
 rm -rf HACKPRO
 
-$ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pip install requests
-$ pip install mechanize
-$ pip install lolcat
-$ pip install BeautifulSoup
-$ pkg install git
-$ git clone https://github.com/James404-cyber/HACKPRO.git
-$ cd HACKPRO
-$ python Prohack.py
+ pkg update
+ pkg upgrade
+ pkg install python
+ pkg install python2
+ pip install requests
+ pip install mechanize
+ pip install lolcat
+ pip install BeautifulSoup
+ pkg install git
+ git clone https://github.com/James404-cyber/HACKPRO.git
+ cd HACKPRO
+ python Prohack.py
 
-Api Key :
 
-Note: This One Paid Tools, So You Take First Approval For Using This Tools
- 
 
 
 ```
