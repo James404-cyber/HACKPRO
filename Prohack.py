@@ -6,7 +6,7 @@ try:os.system("clear")
 except:pass	
 os.system('termux-setup-storage')
 os.system('git pull')
-try:os.system('touch .prox.txt')
+try:os.system('touch /sdcard/james.txt')
 except:pass
 try:os.system('touch .proxy.txt')
 except:pass
