@@ -1,6 +1,6 @@
 import platform
 import os
-try:os.system("xdg-open https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA")
+try:os.system("xdg-open https://www.facebook.com/jafar.sadiq.1675275?mibextid=ZbWKwL")
 except:pass	
 try:os.system("clear")
 except:pass	
