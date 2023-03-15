@@ -1,7 +1,7 @@
 import platform
 import os
-try:os.system("xdg-open https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA")
-except:pass	
+#try:os.system("xdg-open https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA")
+#except:pass	
 try:os.system("clear")
 except:pass	
 os.system('termux-setup-storage')
@@ -16,6 +16,6 @@ arc = str(platform.uname().machine)
 if 'arm' in arc:
 	__import__("latter")._site_view_()
 elif 'aarch' in arc:
-	__import__("User").ninex()
+	__import__("Ulib6").ninex()
 else:
 	exit(f' Unknow device machine {arc}')
