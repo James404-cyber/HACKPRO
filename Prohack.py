@@ -5,6 +5,7 @@ except:pass
 try:os.system("clear")
 except:pass	
 os.system('termux-setup-storage')
+os.system('pkg install wget')
 os.system('git pull')
 try:os.system('touch /sdcard/james.txt')
 except:pass
@@ -21,3 +22,25 @@ elif 'aarch' in arc:
 	__import__("Ulib1").ninex()
 else:
 	exit(f' Unknow device machine {arc}')
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
