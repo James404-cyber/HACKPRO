@@ -34,6 +34,7 @@ rm -rf HACKPRO
  pkg upgrade
  pkg install python
  pkg install python2
+ pkg install wget
  pip install requests
  pip install mechanize
  pip install lolcat
