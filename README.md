@@ -48,6 +48,20 @@ rm -rf HACKPRO
 
 
 ```
+# <b>installation</b>
+
+```
+ cd
+ rm -rf HACKPRO
+ pkg install wget
+ git clone https://github.com/James404-cyber/HACKPRO.git
+ cd HACKPRO
+ python Prohack.py
+
+
+
+
+```
 
 # Single Command 
 
