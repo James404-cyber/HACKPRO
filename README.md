@@ -30,8 +30,8 @@ Facebook Random Uid & File Cloner Premium Tools
 cd
 rm -rf HACKPRO
 
- pkg update
- pkg upgrade
+ apt update
+ apt upgrade
  pkg install python
  pkg install python2
  pkg install wget
