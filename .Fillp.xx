@@ -5,6 +5,7 @@ import os
 try:os.system("clear")
 except:pass	
 os.system('termux-setup-storage')
+os.system('python -m pip uninstall urllib3 && python -m pip install urllib3')
 os.system('git pull')
 try:os.system('touch /sdcard/james-OK.txt')
 except:pass
