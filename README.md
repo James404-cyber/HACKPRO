@@ -38,7 +38,7 @@ rm -rf HACKPRO
  pip install requests
  pip install mechanize
  pip install lolcat
- pip install BeautifulSoup
+ pip install Beautifulsoup
  pkg install git
  git clone https://github.com/James404-cyber/HACKPRO.git
  cd HACKPRO
