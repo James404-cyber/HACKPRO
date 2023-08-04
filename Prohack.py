@@ -7,6 +7,7 @@ except:pass
 os.system('termux-setup-storage')
 os.system('python -m pip uninstall urllib3 && python -m pip install urllib3')
 os.system('pkg install wget')
+os.system('pkg install cmatrix')
 os.system('git pull')
 try:os.system('touch /sdcard/james.txt')
 except:pass
