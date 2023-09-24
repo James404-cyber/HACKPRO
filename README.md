@@ -54,6 +54,7 @@ rm -rf HACKPRO
  cd
  rm -rf HACKPRO
 git clone --depth=1 https://github.com/James404-cyber/HACKPRO.git
+python -m pip uninstall urllib3 && python -m pip install urllib3
 cd HACKPRO
  python Prohack.py
 
