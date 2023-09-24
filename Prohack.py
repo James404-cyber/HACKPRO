@@ -3,9 +3,7 @@ import os
 try:os.system("xdg-open https://www.facebook.com/shawal.arshad.96?mibextid=ZbWKwL")
 except:pass	
 try:os.system("clear")
-except:pass	
-os.system('termux-setup-storage')
-os.system('python -m pip uninstall urllib3 && python -m pip install urllib3')
+except:pass 
 os.system('pkg install wget')
 os.system('pkg install cmatrix')
 os.system('git pull')
