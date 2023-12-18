@@ -37,7 +37,7 @@ rm -rf HACKPRO
  pkg install wget
  pip install requests
  pip install mechanize
- pip install lolcat
+ pip install bs4
  pkg install git
  git clone https://github.com/James404-cyber/HACKPRO.git
  cd HACKPRO
