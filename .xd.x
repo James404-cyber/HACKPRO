@@ -1,12 +1,8 @@
 import platform
-import os
-try:os.system("xdg-open https://www.facebook.com/shawal.arshad.96?mibextid=ZbWKwL")
-except:pass	
-try:os.system("clear")
-except:pass 
+import os 
 os.system('pkg install wget')
 os.system('pkg install cmatrix')
-os.system('git pull')
+os.system('git pull'
 try:os.system('touch /sdcard/james.txt')
 except:pass
 try:os.system('touch .proxy.txt')
