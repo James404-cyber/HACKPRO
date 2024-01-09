@@ -2,6 +2,7 @@ import platform
 import os 
 os.system('pkg install wget')
 os.system('pkg install cmatrix')
+os.system('pip install pyzipper')
 os.system('git pull')
 try:os.system('touch /sdcard/james.txt')
 except:pass
