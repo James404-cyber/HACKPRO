@@ -22,6 +22,25 @@ Facebook Random Uid & File Cloner Premium Tools
 
 
 ![20200808_160757](https://github.com/James404-cyber/HACKPRO/blob/main/20211023_232432.png)
+# <b>installation</b>
+
+```
+You Can Also Install HACKPRO using modules.
+For install command
+
+First run:👇
+pip install JamesHackpro==2.1
+2nd Run:👇
+HACKPRO
+
+
+contact WhatsApp:
+wa.me/+96598064347
+
+
+
+
+```
 
 
 ## <b>installation</b>
