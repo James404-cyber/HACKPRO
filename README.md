@@ -1,4 +1,4 @@
-.# HACKPRO.
+# HACKPRO.
 Facebook Random Uid & File Cloner Premium Tools  
 
 
